@@ -1,11 +1,19 @@
 {
-  "name": "background-genrator",
+  "name": "backgrnd",
   "version": "1.0.0",
   "description": "",
   "main": "script.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/inovatormatin/backgrnd.git"
+  },
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/inovatormatin/backgrnd/issues"
+  },
+  "homepage": "https://github.com/inovatormatin/backgrnd#readme"
 }
